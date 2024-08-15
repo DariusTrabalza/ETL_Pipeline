@@ -1,0 +1,31 @@
+patient_id,age,name,diagnosis,tumor_size,treatment,status
+0,,Heather Mccormick,brain cancer,14mm,surgery,remission
+1,,Andrew Morales,Leukemia,38mm,radiation therapy,stage 4
+2,57,Robert Martin,brain cancer,37mm,radiation therapy,remission
+3,,Jose Cox*,liver cancer,16mm,chemo therapy,stage 3
+4,22,Alicia Hill!,,45mm,surgery,stage 4
+5,,Rebecca Armstrong,,31cm,surgery,stage 3
+6,,James Hendrix,lung cancer,16mm,radiation therapy,remission
+7,38,Shawn Bolton,liver cancer,18cm,chemo therapy,stage 1
+8,7,Elizabeth Farley,stomach cancer,24mm,surgery,stage 2
+9,,David Berry,stomach cancer,5mm,alternative therapy,remission
+10,22,Heather Mccoy,brain cancer,19mm,radiation therapy,stage 1
+11,39,Anthony Davis,Leukemia,33cm,alternative therapy,stage 1
+12,76,Kathy Fuller,Leukemia,3mm,chemo therapy,remission
+13,,David Howard,breast cancer,43mm,chemo therapy,
+14,82,Elizabeth Smith,,40mm,alternative therapy,remission
+15,,Craig Smith,Leukemia,45cm,surgery,remission
+16,,Monica Elliott,,6cm,chemo therapy,stage 3
+17,79,Mary Lynch,stomach cancer,25mm,radiation therapy,deceased
+18,44,Cory Chandler,breast cancer,42mm,radiation therapy,
+19,35,Nathan Chapman,breast cancer,45mm,chemo therapy,stage 1
+20,4,Cynthia Curry,Leukemia,5mm,radiation therapy,stage 2
+21,,Alex King,,4mm,alternative therapy,stage 4
+22,52,David Allison,brain cancer,32mm,surgery,
+23,51,Christian Jones,Leukemia,9cm,surgery,
+24,12,Ana Lee*,Leukemia,14cm,radiation therapy,stage 2
+25,,Christine Hughes,,14mm,radiation therapy,stage 4
+26,54,Alex Patel,,31mm,surgery,stage 3
+27,56,Dawn Henderson,,3mm,surgery,stage 4
+28,,Riley Joyce,breast cancer,29cm,radiation therapy,
+29,73,Kathleen Key,lung cancer,19cm,radiation therapy,stage 1
